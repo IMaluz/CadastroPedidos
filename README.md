@@ -183,7 +183,7 @@ sucesso), ou mensagem de erro caso o array não contenha um id;
  "produto": {
  "id": 1
  },
- "quantidade": 5,
+ "quantidade": 5
 }
 ```
 
